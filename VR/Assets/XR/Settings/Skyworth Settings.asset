@@ -9,10 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 975057b4fdcfb8142b3080d19a5cc712, type: 3}
-  m_Name: OpenXR Editor Settings
+  m_Script: {fileID: 11500000, guid: d534e2eab53a9954db2a2890d60bb05a, type: 3}
+  m_Name: Skyworth Settings
   m_EditorClassIdentifier: 
-  Keys: 010000000e000000
-  Values:
-  - featureSets: []
-  - featureSets: []
+  m_StereoRenderingModeAndroid: 1
+  m_SystemSplash: 1
+  m_IgnoreHome: 0
+  m_ResetSensor: 0
+  m_SafetyAreaEditor: 0
+  m_Foveation: 0
+  m_foveationLevel: 0
+  m_TrackMode: 1

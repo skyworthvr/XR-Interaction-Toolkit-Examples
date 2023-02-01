@@ -8,8 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldInteractionDemo.unity
     guid: 3d16fc5db26e2354e9ac2a5031a52e6d
+  - enabled: 0
+    path: Assets/Samples/Skyworth XR Plugin/2.0.3/Input Sample/inputsample.unity
+    guid: 579250ca5bded7d45b2ed7095ee4cc86
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f3d36b094c7e90a48bfeecc8253553a0,
+      type: 2}
+    Unity.XR.Skyworth.SkyworthSettings: {fileID: 11400000, guid: cb3e2592ecd155b4e8cc08684e2381f9,
       type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: df8aae105e263a5468e482f51411abfe,
       type: 2}
@@ -17,5 +22,5 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 12fb2884f45e57a48a232b374653f4dd,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 58207546bb445ae40ad9c06ed0e40937,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2bcf50ca7a335ea40b37e3bcf05eea52,
       type: 2}
