@@ -1,0 +1,17 @@
+{
+    "name": "com.skyworth.inputsample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:1232a3c8f0273d34b9d232dc21013067"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
